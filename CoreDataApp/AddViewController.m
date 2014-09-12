@@ -68,6 +68,7 @@
     [myPicker addTarget:self
               action:@selector(datePickerValueChanged:)
        forControlEvents:UIControlEventValueChanged];
+    
 }
 
 /*
